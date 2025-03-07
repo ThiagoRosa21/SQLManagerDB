@@ -1,4 +1,4 @@
-<div align="center"><h1> EmployeeDB 🚀 </h1></div>
+<div align="center"><h1> SQLManagerDB 🚀 </h1></div>
 
 <div align="center">
   <a href="#">
